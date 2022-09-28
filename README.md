@@ -24,7 +24,7 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/XAlienAssassin/Twitter_Part2_Medina/blob/main/Twitter2.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
+<img src='https://github.com/XAlienAssassin/Twitter_Part2_Medina/blob/main/Twitter2-1.gif' title='Video Walkthrough' width=250 alt='Video Walkthrough' />
 
 
 # Twitter - Part I
